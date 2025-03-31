@@ -1,6 +1,3 @@
-In this project, a credit card fraud detection system has been developed to identify fraudulent transactions using anonymized financial data. Logistic regression, XGBoost, and random forest algorithms have been applied to build and compare predictive models.
-
-
 # 🛡️ Credit Card Fraud Detection
 
 ## 📌 Project Overview
